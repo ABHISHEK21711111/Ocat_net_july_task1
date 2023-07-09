@@ -1,1 +1,3 @@
-# Ocat_net_july_task1
+The project is organized into the following directories:
+
+Task1: Contains a Landing Page.
